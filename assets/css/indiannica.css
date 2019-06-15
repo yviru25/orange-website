@@ -192,6 +192,7 @@ body {
     -webkit-transition-duration: 0.3s;
 	transition-duration: 0.3s;
 	float: left;
+	font-family: titillium;
 }
  .navbar-nav ul li a span {
 	color:#fff;
@@ -5558,6 +5559,7 @@ button.close {
     display: block;
     padding: 10px 15px;
     color: aliceblue;
+    font-family: titillium;
 }
 
 .nav>li>a:focus, .nav>li>a:hover {
