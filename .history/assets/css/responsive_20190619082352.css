@@ -380,10 +380,10 @@
     }
     .nav_responsive {
         width: 45px;
-        height: 55px;
+        height: 45px;
         cursor: pointer;
         float: right;
-        padding-top: 17px;
+        padding-top: 27px;
     }
         
     .one {
